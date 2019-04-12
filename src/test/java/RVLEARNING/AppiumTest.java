@@ -15,6 +15,10 @@ public class AppiumTest {
 	public void clickTab(){
 		System.out.println("clicktab");
 	}
+	@Test
+	public void clickTab1(){
+		System.out.println("clicksubbranchtab");
+	}
 
 
 }
