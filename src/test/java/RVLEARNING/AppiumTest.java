@@ -11,5 +11,10 @@ public class AppiumTest {
 	public void clickmobile(){
 		System.out.println("clickmobile");
 	}
+	@Test
+	public void clickTab(){
+		System.out.println("clicktab");
+	}
+
 
 }
