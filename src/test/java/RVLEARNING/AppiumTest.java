@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class AppiumTest {
 	@Test
 	public void nativeapplaunch(){
-		System.out.println("nativeapplaunch");
+		System.out.println("nativeapplaunc");
 	}
 	@Test
 	public void clickmobile(){
