@@ -8,7 +8,7 @@ public class RESTTest {
 	public String restapiadd(){
 		String a;
 		System.out.println("rest");
-		return  a="abc";
+		return  a="abcd";
 	}
 
 }
